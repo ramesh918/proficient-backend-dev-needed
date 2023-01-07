@@ -1,0 +1,29 @@
+{
+  "name": "proficient-backend-dev-needed",
+  "version": "1.0.0",
+  "description": "take the url link of a html page de parse it",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ramesh918/proficient-backend-dev-needed.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ramesh918/proficient-backend-dev-needed/issues"
+  },
+  "homepage": "https://github.com/ramesh918/proficient-backend-dev-needed#readme",
+  "dependencies": {
+    "axios": "^1.2.2",
+    "express": "^4.18.2",
+    "jest": "^29.3.1",
+    "striptags": "^3.2.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
