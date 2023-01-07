@@ -34,3 +34,7 @@
 2. Here see, url is giving as query parameter, and provideded url is  "reamesh"
 3. output is as below 
 <img width="538" alt="image" src="https://user-images.githubusercontent.com/92211837/211148484-64890b4b-d534-4f45-afb8-0012ae353335.png">
+
+#### Unit Test Case Result
+<img width="481" alt="image" src="https://user-images.githubusercontent.com/92211837/211149563-29c0e5a9-95ab-4d0f-8905-8f2d326fac20.png">
+
